@@ -1,0 +1,17 @@
+{
+  "name": "To-Do-List",
+  "version": "1.0.0",
+  "description": "A simple to-do application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Khouloud Ben Brahem",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^38.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}
